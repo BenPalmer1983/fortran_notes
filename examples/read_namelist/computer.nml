@@ -1,0 +1,16 @@
+&COMPUTER
+os='Ubuntu'
+ram=64
+processor%make='AMD'
+processor%model='Ryzen 9'
+processor%freq=3.8
+processor%cores=12
+processor%cache(1)=0.75
+processor%cache(2)=6
+processor%cache(3)=64
+drive(1)=256
+drive(2)=5000
+drive(3)=5000
+drive(4)=0
+drive(5)=0
+/

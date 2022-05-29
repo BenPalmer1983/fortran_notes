@@ -1,0 +1,8 @@
+gfortran read.f90 -o read.x && ./read.x
+
+gfortran write.f90 -o write.x && ./write.x
+
+
+
+
+gfortran read1.f90 -o read1.x && ./read1.x
