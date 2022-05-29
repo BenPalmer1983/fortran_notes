@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.11.14)  29 MAY 2022 17:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.11.14)  29 MAY 2022 18:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -718,34 +718,38 @@ Chapter 4.
 ]
 Chapter 5.
 (./source/lagrange_polynomial_interpolation.f90) (./source/lp_interp_fill.f90
-[11])) (./documents/differentiation.tex [12]
+[11]) (./source/interpolate_grad.f90 [12])) (./documents/differentiation.tex
+[13] [14
+
+]
 Chapter 6.
 (./source/gradient1.f90) (./source/gradient2.f90)) (./documents/integration.tex
-[13
-
-] [14
+[15] [16
 
 ]
 Chapter 7.
-(./source/simpson_integration.f90) (./source/simpson_integration_2.f90 [15]))
-[16] (./main.aux) ) 
+(./source/simpson_integration.f90) (./source/simpson_integration_2.f90 [17]))
+(./documents/openmp.tex [18]
+Chapter 8.
+(./source/openmp_sum.f90)) [19
+
+] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 5673 strings out of 492982
- 74496 string characters out of 6134895
+ 5694 strings out of 492982
+ 74828 string characters out of 6134895
  212826 words of memory out of 5000000
- 9086 multiletter control sequences out of 15000+600000
+ 9098 multiletter control sequences out of 15000+600000
  32102 words of font info for 27 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,6n,49p,271b,1643s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/t
-exmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/l
-mr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr5.pfb></usr/share/texmf/fon
-ts/type1/public/lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt8.pfb
->
-Output written on main.pdf (16 pages, 166992 bytes).
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texm
+f/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr1
+0.pfb></usr/share/texmf/fonts/type1/public/lm/lmr5.pfb></usr/share/texmf/fonts/
+type1/public/lm/lmro10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt8.pfb>
+Output written on main.pdf (19 pages, 172626 bytes).
 PDF statistics:
- 77 PDF objects out of 1000 (max. 8388607)
- 53 compressed objects within 1 object stream
+ 87 PDF objects out of 1000 (max. 8388607)
+ 60 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
